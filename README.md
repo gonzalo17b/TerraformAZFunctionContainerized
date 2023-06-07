@@ -1,0 +1,2 @@
+# TerraformAZFunctionContainerized
+Deploying Containerized Azure Functions with Terraform
